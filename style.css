@@ -1,0 +1,22 @@
+body {
+  background-image:url(images/download\ \(3\).jpg);
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+h2 {
+  color:black;
+  text-align: left;
+}
+li {
+  color: black;
+  font-size: 20px;
+}
+p {
+  color: black;
+  font-family: verdana;
+  font-size: 20px;
+}
+ 
